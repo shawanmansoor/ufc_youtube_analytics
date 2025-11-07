@@ -1,4 +1,4 @@
-🥊 UFC YouTube Analytics Dashboard
+#🥊 UFC YouTube Analytics Dashboard
 📘 Overview
 
 This project analyzes UFC’s official YouTube channel to uncover engagement trends across different content types — including press conferences, weigh-ins, faceoffs, interviews, full fights, and embedded series.
