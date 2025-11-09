@@ -48,13 +48,10 @@ Full fights draw high reach but comparatively lower engagement.
 
 ## 🧩 Future Improvements
 
-1) Automate daily YouTube API pulls via a scheduled script, so the data stays up to date
+1) **Automate daily YouTube API pulls** via a scheduled script, so the data stays up to date
 
-2) Add deep analysis for YouTube comments, seeing how many times a phrase/fighter was brought up, seeing if comments are negative/positive, etc.
+2) Add **deep analysis for YouTube comments**, seeing how many times a phrase/fighter was brought up, seeing if comments are negative/positive, etc.
 
-3) Expand comparison across multiple fighters or events
+3) Compare other channels of UFC's top competitors (Boxing, other MMA organizations, etc.) 
 
-Deploy Power BI report to a public dashboard (Power BI Service).
-
-
-
+4) Expand comparison across multiple fighters or events
