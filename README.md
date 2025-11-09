@@ -1,5 +1,6 @@
 # 🥊 UFC YouTube Analytics Dashboard
 
+
 ## 📘 Overview
 This is a passion project of mine which analyzes UFC's official Youtube channel to uncover engagement trends across different content types — including press conferences, weigh-ins, faceoffs, interviews, full fights, and embedded series. The analysis focuses on identifying what types of content generate the most audience interaction/engagement (likes, comments, and views), including with a special case study on Alex Pereira (“Poatan”), one of the UFC’s — if not the most — popular athlete today.
 
@@ -24,29 +25,18 @@ This is a passion project of mine which analyzes UFC's official Youtube channel 
 | **Visualization** | 📊 Microsoft Power BI | Builds interactive dashboards for engagement and performance trends |
 
 ## 📊 Key Metrics
-
-
-This allows comparison of audience interaction across videos of vastly different view counts.
+**Engagement Rate (%)** = (Likes + Comments) ÷ Views × 100
 
 ## 📈 Dashboard Highlights
+**Bar Chart:** Average engagement across content types
 
-Bar Chart: Average engagement by content type
+**KPI Cards:** Compares overall average engagement to Pereira's average engagement
 
-KPI Cards:
+**Scatter Plot:** Views vs Engagement Rate for videos
 
-Overall average engagement
+**Trend Line:** Shows correlation between reach and engagement
 
-Alex Pereira (all videos)
-
-Alex Pereira (interviews only)
-
-Scatter Plot: Views vs Engagement Rate (each dot = video)
-
-Trend Line: Shows correlation between reach and engagement
-
-Slicer Filters: Quickly isolate Pereira or specific video types
-
-🧠 Insights
+## 🧠 Findings
 
 Press Conferences and Weigh-Ins drive the most engagement overall.
 
@@ -56,26 +46,15 @@ Interviews featuring Pereira have the highest engagement-per-viewer.
 
 Full fights draw high reach but comparatively lower engagement.
 
-🧩 Future Improvements
+## 🧩 Future Improvements
 
-Automate daily YouTube API pulls via a scheduled script.
+1) Automate daily YouTube API pulls via a scheduled script, so the data stays up to date
 
-Add sentiment analysis for YouTube comments.
+2) Add deep analysis for YouTube comments, seeing how many times a phrase/fighter was brought up, seeing if comments are negative/positive, etc.
 
-Expand comparison across multiple fighters or events.
+3) Expand comparison across multiple fighters or events
 
 Deploy Power BI report to a public dashboard (Power BI Service).
 
-💬 Example Output
-📊 Average Engagement by Content Type (excluding 'Other'):
-Press Conference     1.89%
-Weigh-In             1.80%
-Embedded Series      1.70%
-Interview            1.67%
-Full Fight           1.28%
-Faceoff              1.05%
 
-🔥 Alex Pereira Engagement Comparison:
-Overall Avg: 1.85%
-Alex Pereira (all videos): 2.22%
-Alex Pereira Interviews: 2.74%
+
