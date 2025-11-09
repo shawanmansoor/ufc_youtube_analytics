@@ -1,6 +1,5 @@
 🥊 UFC YouTube Analytics Dashboard
 
-
 📘 Overview
 This is a passion project of mine which analyzes UFC's official Youtube channel to uncover engagement trends across different content types — including press conferences, weigh-ins, faceoffs, interviews, full fights, and embedded series. The analysis focuses on identifying what types of content generate the most audience interaction/engagement (likes, comments, and views), including with a special case study on Alex Pereira (“Poatan”), one of the UFC’s — if not the most — popular athlete today.
 
@@ -17,48 +16,15 @@ This is a passion project of mine which analyzes UFC's official Youtube channel 
 
 ⚙️ Tech Stack
 Tool	Purpose
-Python (Pandas, NumPy, Regex)	Data cleaning, feature engineering
+Python (Pandas, NumPy)	Data cleaning, feature engineering
 YouTube Data API v3	Data collection (video stats & metadata)
 Power BI	Dashboard creation & visualization
 CSV / TXT Outputs	Intermediate storage & reporting
 
 📊 Key Metrics
-Engagement Rate (%)
 
-Engagement Rate
-=
-Likes + Comments
-Views
-×
-100
-Engagement Rate=
-Views
-Likes + Comments
-	​
-
-×100
 
 This allows comparison of audience interaction across videos of vastly different view counts.
-
-📂 Project Structure
-Youtube_Api_Python/
-│
-├── data/
-│   ├── raw/                      # Original API pulls
-│   ├── clean/                    # Cleaned datasets for Power BI
-│   │   ├── ufc_videos_clean.csv
-│   │   ├── content_type_summary.csv
-│   │   └── analysis_summary.txt
-│
-├── scripts/
-│   ├── data_cleaning.py          # Cleans & filters data
-│   ├── categorize_videos.py      # Classifies videos into content types
-│   └── summarize_engagement.py   # Calculates averages & exports results
-│
-├── dashboard/
-│   └── ufc_engagement.pbix       # Power BI dashboard file
-│
-└── README.md                     # Project documentation
 
 📈 Dashboard Highlights
 
