@@ -1,9 +1,9 @@
-🥊 UFC YouTube Analytics Dashboard
+# 🥊 UFC YouTube Analytics Dashboard
 
-📘 Overview
+## 📘 Overview
 This is a passion project of mine which analyzes UFC's official Youtube channel to uncover engagement trends across different content types — including press conferences, weigh-ins, faceoffs, interviews, full fights, and embedded series. The analysis focuses on identifying what types of content generate the most audience interaction/engagement (likes, comments, and views), including with a special case study on Alex Pereira (“Poatan”), one of the UFC’s — if not the most — popular athlete today.
 
-🎯 Objectives
+## 🎯 Objectives
 1) Clean and structure YouTube API data into an "analyzable" form.
 
 2) Categorize videos by content type using text classifications.
@@ -14,19 +14,21 @@ This is a passion project of mine which analyzes UFC's official Youtube channel 
 
 5) Visualize trends and performance insights with Power BI.
 
-⚙️ Tech Stack
-Tool	Purpose
-Python (Pandas, NumPy)	Data cleaning, feature engineering
-YouTube Data API v3	Data collection (video stats & metadata)
-Power BI	Dashboard creation & visualization
-CSV / TXT Outputs	Intermediate storage & reporting
+## ⚙️ Tech Stack
 
-📊 Key Metrics
+| **Category** | **Tool / Library** | **Purpose** |
+|:-------------|:------------------:|-------------:|
+| **Data Collection** | 🧩 YouTube Data API v3 | Fetches video metadata, performance metrics (views, likes, comments, publish date) |
+| **Data Processing** | 🐍 Python (Pandas, NumPy) | Cleans raw data, fixes encoding, and categorizes videos by content type |
+| **Data Storage** | 📁 CSV / TXT Files | Stores cleaned and summarized datasets for Power BI visualization |
+| **Visualization** | 📊 Microsoft Power BI | Builds interactive dashboards for engagement and performance trends |
+
+## 📊 Key Metrics
 
 
 This allows comparison of audience interaction across videos of vastly different view counts.
 
-📈 Dashboard Highlights
+## 📈 Dashboard Highlights
 
 Bar Chart: Average engagement by content type
 
