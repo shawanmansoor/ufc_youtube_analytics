@@ -9,11 +9,13 @@ This is a passion project of mine which analyzes UFC's official Youtube channel 
 
 2) Categorize videos by content type using text classifications.
 
-3) Compute engagement metrics to compare performances between content types.
+3) Compute engagement metrics to compare performances and tendencies between content types.
 
 4) Evaluate Alex Pereira’s engagement compared to UFC averages.
 
-5) Visualize trends and performance insights with Power BI.
+5) Compare engagement between the largest Pay-Per-View events.
+
+6) Visualize trends and performance insights with Power BI.
 
 ## ⚙️ Tech Stack
 
@@ -26,6 +28,7 @@ This is a passion project of mine which analyzes UFC's official Youtube channel 
 
 ## 📊 Key Metrics
 **Engagement Rate (%)** = (Likes + Comments) ÷ Views × 100
+  - thi
 
 ## 📈 Dashboard Highlights
 **Bar Chart:** Average engagement across content types
@@ -46,6 +49,8 @@ Interviews featuring Pereira have the highest engagement-per-viewer.
 
 Full fights draw high reach but comparatively lower engagement.
 
+
+
 ## 🧩 Future Improvements
 
 1) **Automate daily YouTube API pulls** via a scheduled script, so the data stays up to date
@@ -53,5 +58,3 @@ Full fights draw high reach but comparatively lower engagement.
 2) Add **deep analysis for YouTube comments**, seeing how many times a phrase/fighter was brought up, seeing if comments are negative/positive, etc.
 
 3) Compare other channels of UFC's top competitors (Boxing, other MMA organizations, etc.) 
-
-4) Expand comparison across multiple fighters or events
