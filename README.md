@@ -26,9 +26,24 @@ This is a passion project of mine which analyzes UFC's official Youtube channel 
 | **Data Storage** | 📁 CSV / TXT Files | Stores cleaned and summarized datasets for Power BI visualization |
 | **Visualization** | 📊 Microsoft Power BI | Builds interactive dashboards for engagement and performance trends |
 
-## 📊 Key Metrics
+## 📊 Key Metric
+
+Engagement Rate measures how actively viewers interact with a piece of content.
+
+For this project, it represents the percentage of viewers who liked, commented, or otherwise engaged with a UFC video relative to its total views.
 **Engagement Rate (%)** = (Likes + Comments) ÷ Views × 100
-  - thi
+
+# What is Considered a Good/Bad Engagement Rate?
+
+Engagement benchmarks vary by platform, but on YouTube-style content:
+- Low Engagement: < 1%
+Content is reaching viewers but not driving meaningful interaction.
+- Average Engagement: 1% – 2%
+Most general creator content falls in this range.
+- High Engagement: 2% – 5%+
+Strong audience connection — typically seen in viral clips, big announcements, or highly emotional/controversial moments.
+- Exceptional Engagement: 6%+
+Rare. Indicates extremely compelling content and strong community interest.
 
 ## 📈 Dashboard Highlights
 **Bar Chart:** Average engagement across content types
