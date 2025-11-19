@@ -110,7 +110,7 @@ Top-performing videos often include:
 
 - UFC’s audience rewards authenticity, emotion, and big fight moments, rather than just polished promotional content.
 
-##🎯 Strategic Recommendations
+## 🎯 Strategic Recommendations
 
 The UFC is on top of their game when it comes to knowing who their audience is. However, here are some other suggestions I have.
 
