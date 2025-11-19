@@ -38,31 +38,55 @@ For this project, it represents the percentage of viewers who liked, commented, 
 Engagement benchmarks vary by platform, but on YouTube-style content:
 - Low Engagement: < 1%
   - Content is reaching viewers but not driving meaningful interaction.
+    
 - Average Engagement: 1% – 2%
   - Most general creator content falls in this range.
+    
 - High Engagement: 2% – 5%+
   - Strong audience connection — typically seen in viral clips, big announcements, or highly emotional/controversial moments.
+    
 - Exceptional Engagement: 6%+
   - Rare. Indicates extremely compelling content and strong community interest.
 
 ## 📈 Dashboard Highlights
-**Bar Chart:** Average engagement across content types
 
-**KPI Cards:** Compares overall average engagement to Pereira's average engagement
+**📍 Dashboard 1 — YouTube Content Engagement Overview**
 
-**Scatter Plot:** Views vs Engagement Rate for videos
+This dashboard analyzes 999 UFC YouTube videos across multiple content types to understand how fans interact with UFC media.
 
-**Trend Line:** Shows correlation between reach and engagement
+Key highlights:
+
+- From the beginning of August to the end of Octobver, UFC's channel ammassed 226M total views, 4M likes, and 245K comments.
+
+- The overall average engagement rate is 1.85%, which is strong for a large sports brand.
+
+- Press Conferences, Weigh-Ins, Embedded Series, and Interviews are all over 1.5% average, suggesting fans respond strongly to behind-the-scenes or narrative-driven content.
+
+- Scatter plot analysis shows no direct correlation between high views and high engagement — meaning viral videos don’t always drive meaningful interaction.
+
+- Views and uploads are unevenly distributed across content types, helping identify where UFC focuses most of its content production and which audiences they are tailored to.
+
+**📍 Dashboard 2 — Alex Pereira Pay-Per-View (PPV) Engagement Breakdown**
+
+This dashboard zooms in on one fighter—Alex Pereira—to understand how his content performs across major UFC PPVs.
+
+Key highlights:
+
+- Pereira-related videos average 2.22% engagement, which is above the UFC channel-wide average at 1.85%.
+
+- Pereira’s videos also average 848K views, showing significantly boosted reach especially during his PPV fight weeks.
+
+- UFC 320 content delivered the strongest overall performance, achieving the highest median engagement rate, the most likes, and the largest number of uploads — highlighting how heavily the organization invested in promoting Pereira during this event.
+
+Top-performing videos often include:
+
+- Post-fight reactions
+
+- Emotional or dramatic moments
+
+  - Overall, engagement rate comparisons across PPVs show consistent interest regardless of the event, signaling a strong and loyal audience base.
 
 ## 🧠 Findings
-
-Press Conferences and Weigh-Ins drive the most engagement overall.
-
-Alex Pereira’s videos outperform the channel average by ~20%.
-
-Interviews featuring Pereira have the highest engagement-per-viewer.
-
-Full fights draw high reach but comparatively lower engagement.
 
 
 
