@@ -4,6 +4,10 @@
 ## 📘 Overview
 This is a passion project of mine which analyzes UFC's official Youtube channel to uncover engagement trends across different content types — including press conferences, weigh-ins, faceoffs, interviews, full fights, and embedded series. The analysis focuses on identifying what types of content generate the most audience interaction/engagement (likes, comments, and views), including with a special case study on Alex Pereira (“Poatan”), one of the UFC’s — if not the most — popular athlete today.
 
+## Full Dashboard
+
+[(View the full Power BI dashboard (PDF)](https://github.com/user-attachments/files/23620048/UFC_YouTube_Engagement.pdf)
+
 ## 🎯 Objectives
 1) Clean and structure YouTube API data into an "analyzable" form.
 
