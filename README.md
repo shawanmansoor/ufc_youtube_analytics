@@ -88,7 +88,51 @@ Top-performing videos often include:
 
 ## 🧠 Findings
 
+**Content Types**
 
+- Press Conferences are focused to audiences/fans who want to see the drama and tensions before and after the fights. The UFC sees this as a reliable way to spark conversation, engagement, and build up anticipation.
+
+- Weigh-Ins are focused on viewers who enjoy the final faceoffs and the emotional pre-fight moment. Its strong engagement shows its virality is tied to last-minute intensity.
+
+- Embedded Series are tailored to fans who enjoy seeing the BTS of fighters' preparations before the fights. These help deepen fan connections to fighters and the organization as well as strengthens narratives leading to events.
+
+- Interviews are tailored to dedicated fans who want fighter insights and personalities. They are the most uploaded to build fighter brands and connections with fans.
+
+- Full fights are for casual as well has hardcore fans. They generate big viewership but low interaction (people watch it more than comment). This is a perfect example of UFC's "evergreen" content.
+
+- Faceoffs are tailored to fans who just want to see the quick hype moments. Although engagement is low, they do help promote rivalries.
+
+**Pereira x PPV**
+
+- Pereira is a high-engagement fighter, outperforming the platform’s average.
+
+- PPV build-up content performs exceptionally well, especially when tied to dramatic or narrative moments.
+
+- UFC’s audience rewards authenticity, emotion, and big fight moments, rather than just polished promotional content.
+
+##🎯 Strategic Recommendations
+
+The UFC is on top of their game when it comes to knowing who their audience is. However, here are some other suggestions I have.
+
+**1) Partner with MMA & Combat Sports Content Creators.**
+      - Youtubers and narrative-based MMA creators already havce:
+          - Extremely loyal audiences
+          - Emotional storytelling formats
+          - High engagement per video
+          - Deep knowledge of fighters and rivalries from a fan's POV.
+          
+**2) Incentivize "Fan Reaction Content"
+      - Reactions, hype edits, and emotional responses have consistent high engagement.
+      - UFC can spark this by:
+        - Creating weekly "Best Content" features or reactions for each event.
+        - Promote fan edits on social platforms.
+
+**3) Fighter Personality Spotlights"**
+Since interviews and Embedded content do great:
+    - Create personality-driven series:
+       - “5 Things You Didn’t Know About ___”
+       - “A Day in the Life of ____”
+       - “Fighter Origins: How They Started”
 
 ## 🧩 Future Improvements
 
